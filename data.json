@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Mac",
+        "isStudying": true,
+        "hasWindowOpen": true
+    },
+    {
+        "name": "Iphone",
+        "isStudying": true,
+        "hasWindowOpen": true
+    }
+]

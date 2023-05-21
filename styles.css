@@ -1,0 +1,46 @@
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+#user-input {
+    margin-bottom: 20px;
+}
+
+/* User list styles */
+#user-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  #user-list li {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  /* Study status dot styles */
+  .study-status {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: gray;
+    margin-right: 5px;
+  }
+  
+  .studying {
+    background-color: green;
+  }
+  
+  /* Clear button styles */
+  #clear-button {
+    margin-top: 10px;
+  }
+  
